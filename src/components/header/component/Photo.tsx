@@ -23,7 +23,7 @@ export function Photo() {
           className="w-[290px] h-[290px] lg:w-[498px] lg:h-[498px] mix-blend-lighten soft-edge absolute"
         >
           <Image
-            src="/straight.png"
+            src="/straights.png"
             alt="photo.png"
             fill
             quality={100}
